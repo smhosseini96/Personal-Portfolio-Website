@@ -1073,7 +1073,8 @@ services__title {
   }
 
   .skills__container,
-  .qualification__container، .services__container,
+  .qualification__container,
+  .services__container,
   .contact__container {
     grid-template-columns: repeat(2, max-content);
   }
