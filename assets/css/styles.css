@@ -1360,50 +1360,50 @@ services__title {
     margin-bottom: 2rem;
   }
 
-  .testimonial__img{
+  .testimonial__img {
     width: 200px;
     top: 13rem;
     right: 4rem;
   }
 
-  .contact__title{
+  .contact__title {
     margin-bottom: 3rem;
   }
 
-  .contact__title i{
+  .contact__title i {
     font-size: 1.2rem;
   }
 
-  .contact__info{
+  .contact__info {
     row-gap: 3rem;
   }
 
-  .contact__data-info{
+  .contact__data-info {
     font-size: var(--normal-font-size);
   }
 
-  .contact__form{
+  .contact__form {
     row-gap: 2.5rem;
   }
 
-  .footer__container{
+  .footer__container {
     padding: 4rem 0 3rem;
   }
 
-  .footer__list{
+  .footer__list {
     column-gap: 3rem;
     margin: 3rem 0;
   }
 
-  .footer__social{
+  .footer__social {
     column-gap: 2rem;
   }
 
-  .footer__social-link{
+  .footer__social-link {
     font-size: 1.5rem;
   }
 
-  .footer__copy{
+  .footer__copy {
     margin-top: 5rem;
   }
 }
